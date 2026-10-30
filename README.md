@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Lenny, an engineer and problem solver. I'm current learning 
+
+**_My tech stack_**
+* Vite Development
+  * Tailwind Styling
+* Docker Deployment
+* Figma Design
+
+**😆Feel free to send me a message!!**
 <!--
 **ynnxl/ynnxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
