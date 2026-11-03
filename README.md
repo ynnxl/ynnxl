@@ -1,25 +1,31 @@
-## Hi there 👋
+## Hi, I'm Lenny 👋
+I'm a Software Development student with a passion for building practical software solutions, exploring emerging technologies, and understanding the systems that power modern applications.
 
-I'm Lenny, an engineer and problem solver. I'm current learning 
+I'm particularly interested in Cloud Computing, DevOps, Backend Engineering, Networking and Systems Administration. My goal is to continuously expand my technical knowledge by building projects, experimenting with new technologies, and solving real-world problems
 
-**_My tech stack_**
-* Vite Development
-  * Tailwind Styling
-* Docker Deployment
-* Figma Design
+### 🛠️Tech & Tools
 
-**😆Feel free to send me a message!!**
-<!--
-**ynnxl/ynnxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+* Python | Java | C | JavaScript | HTML | CSS | Shell
 
-Here are some ideas to get you started:
+**Frameworks & Development**
+* Node.js | React | REST APIs | Webflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Systems & Infrastructure**
+* Linux | Windows | Git | GitHub |
+* Virtualization 
+* Docker
+
+**Tools & Platforms**
+* Visual Studio Code
+* Figma
+
+
+### 🚀What I'm Currently Working On
+* Exploring remote server monitoring, system administration, and access through SSH.
+* Experimenting with IoT devices, microcontrollers, and network communication.
+* Developing projects that explore file sharing, networking and system performance.
+
+### 📥Let's Connect
+
+I'm always interested in connecting with other developers, collaborating on projects, and learning from people in the tech community.
